@@ -4,7 +4,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <img class="img-responsive" src="img/profile.png" alt="" />
+          <img class="img-responsive" src="@/assets/img/profile.png" alt="" />
           <div class="intro-text">
             <span class="name">Dmitry Nasyrkulov</span>
             <span class="name">Nikolay Slusar</span>
@@ -18,6 +18,7 @@
 </template>
 
 <script>
+
 export default {
   props: {},
 };
